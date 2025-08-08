@@ -24,11 +24,15 @@ Currently, I’m expanding my skills by learning advanced frameworks and backend
 
 ## 🛠 **Skills**
 
-### **Frontend**
-![HTML5](https://img.icons8.com/color/48/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) ![React](https://img.icons8.com/color/48/react-native.png) ![Tailwind CSS](https://img.icons8.com/color/48/tailwindcss.png)  
+### Frontend  
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png)  ![CSS3](https://img.icons8.com/color/48/css3.png)  ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)  ![React](https://img.icons8.com/color/48/react-native.png)  ![Tailwind CSS](https://img.icons8.com/color/48/tailwindcss.png)
 
-### **Backend**
-![Node.js](https://img.icons8.com/color/48/nodejs.png) ![Express.js](https://img.icons8.com/ios/50/express-js.png) ![MongoDB](https://img.icons8.com/color/48/mongodb.png)  
+### Backend  
+![Node.js](https://img.icons8.com/color/48/nodejs.png)  ![Express.js](https://img.icons8.com/ios/50/express-js.png)  ![MongoDB](https://img.icons8.com/color/48/mongodb.png)
+
+### Languages & Data Structures  
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)  ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)  ![Python](https://img.icons8.com/color/48/python.png)  ![C#](https://img.icons8.com/color/48/c-sharp-logo.png)  **Data Structures**
+
 
 ### **Tools**
 ![Git](https://img.icons8.com/color/48/git.png) ![GitHub](https://img.icons8.com/ios-glyphs/48/github.png) ![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) ![Firebase](https://img.icons8.com/color/48/firebase.png)
