@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-[![Banner](https://your-banner-image-link.com)](https://ibb.co.com/ZpJjrc2z)
+![Banner]([https://your-banner-image-link.com](https://ibb.co.com/ZpJjrc2z))
 
 # 👋 Hi, I’m **Md Hridoy**  
 ### 🚀 Frontend Developer | Web Developer  
