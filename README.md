@@ -37,8 +37,7 @@ Currently, I’m expanding my skills by learning advanced frameworks and backend
 ---
 
 ## 🌍 **Connect with Me**
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/hridoy--saha)  
-[![GitHub](https://img.icons8.com/ios-glyphs/48/github.png)](https://github.com/hridoy8220)  
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/hridoy--saha)  [![GitHub](https://img.icons8.com/ios-glyphs/48/github.png)](https://github.com/hridoy8220)  
 
 
 ---
