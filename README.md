@@ -45,7 +45,8 @@ Currently, I’m expanding my skills by learning advanced frameworks and backend
 ## 📊 **GitHub Stats**
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy8220&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy8220&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hridoy8220&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hridoy8220&theme=tokyonight)
+
 
 
 
