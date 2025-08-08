@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-![Banner]([https://i.ibb.co/abc123/banner.png](https://i.ibb.co.com/MxhvHPBk/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.png))
+![Banner](https://i.ibb.co/MxhvHPBk/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.png)
+
 
 # 👋 Hi, I’m **Md Hridoy**  
 ### 🚀 Frontend Developer | Web Developer  
