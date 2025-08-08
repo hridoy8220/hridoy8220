@@ -44,9 +44,9 @@ Currently, I’m expanding my skills by learning advanced frameworks and backend
 ---
 
 ## 🌍 **Connect with Me**
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.icons8.com/ios-glyphs/48/github.png)](https://github.com/your-username)  
-[![Portfolio](https://img.icons8.com/color/48/domain.png)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/hridoy--saha)  
+[![GitHub](https://img.icons8.com/ios-glyphs/48/github.png)](https://github.com/hridoy8220)  
+
 
 ---
 
@@ -61,10 +61,10 @@ Currently, I’m expanding my skills by learning advanced frameworks and backend
 
 ### 🍽 **Food Recipe App**
 A modern recipe platform where users can create, edit, and share recipes with secure login.  
-**Live Link:** [Click Here](https://your-live-link.com)  
+**Live Link:** [Click Here](https://food-project-75ea0.web.app/)  
 **Skills:** React, Firebase, Tailwind CSS, Context API  
 
 ### 🏢 **Building Management System**
 A role-based dashboard platform for apartment listings, agreements, payments, and more.  
-**Live Link:** [Click Here](https://your-live-link.com)  
+**Live Link:** [Click Here](https://building-management-5fce2.web.app/)  
 **Skills:** React, MongoDB, Firebase Auth, JWT  
