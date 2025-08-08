@@ -2,7 +2,7 @@
 ![Banner](https://i.ibb.co/MxhvHPBk/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.png)
 
 
-# 👋 Hi, I’m **Md Hridoy**  
+# 👋 Hi, I’m **Hridoy**  
 ### 🚀 Frontend Developer | Web Developer  
 
 ---
